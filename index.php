@@ -7,10 +7,6 @@
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
-    <div class="login-container">
-        <div class="logo">
-            <img src="img/logo.png" alt="Logo de la tienda">
-        </div>
         <h1>Bienvenido a Tienda de Perfumes</h1>
         <form action="login.php" method="post" class="login-form">
             <label for="nick">Usuario:</label>
